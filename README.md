@@ -5,7 +5,7 @@ Provides methods to see if word is contained in a list of English stop words.
 ## Installation
 
 ```
-panda install Lingua::EN::Stopwords
+panda install git://github.com/kmwallio/p6-Lingua-EN-Stopwords.git
 ```
 
 ## Usage
