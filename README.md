@@ -1,6 +1,6 @@
 # Lingua::EN::Stopwords
 
-Provides methods to see if word is contained in a list of English stop words.
+Provides methods to see if word is contained in a list of English stop words. [![Build Status](https://travis-ci.org/kmwallio/p6-Lingua-EN-Stopwords.svg?branch=master)](https://travis-ci.org/kmwallio/p6-Lingua-EN-Stopwords)
 
 ## Installation
 
