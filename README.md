@@ -10,7 +10,7 @@ panda install Lingua::EN::Stopwords
 
 ## Usage
 
-```
+``` perl6
 use Lingua::EN::Stopwords::Short;
 
 # Now we have an array:
