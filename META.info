@@ -1,7 +1,7 @@
 {
   "perl" : "6.*",
   "name" : "Lingua::EN::Stopwords",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "description" : "Provides lists and functions for common English stop words.",
   "authors" : [ "KM Wallio" ],
   "provides" : {

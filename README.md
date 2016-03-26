@@ -5,7 +5,7 @@ Provides methods to see if word is contained in a list of English stop words. [!
 ## Installation
 
 ```
-panda install git://github.com/kmwallio/p6-Lingua-EN-Stopwords.git
+panda install Lingua::EN::Stopwords
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ panda install git://github.com/kmwallio/p6-Lingua-EN-Stopwords.git
 use Lingua::EN::Stopwords::Short;
 
 # Now we have an array:
-say @stop-words;
+say %stop-words;
 
 # We can also check for words
 say 'is dog a stop word? ' ~ is-stop-word('dog');
